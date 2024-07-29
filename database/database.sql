@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `username`, `password`, `server_key`, `create_at`) VALUES
-(1, 'Admin', 'admin@email.com', '$2y$10$vrARjldXebr5mCZEAcSQIuwsLVc2TRzp2tlkkIkd2IC8MeuhqCBE6', 'dsad dsad sada', '2019-02-26 10:16:31');
+(1, 'Admin', 'admin@gmail.com', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'dsad dsad sada', '2019-02-26 10:16:31');
 
 -- --------------------------------------------------------
 
@@ -83,7 +83,7 @@ CREATE TABLE `applist` (
 --
 
 INSERT INTO `applist` (`id`, `app_name`, `radio_stream`, `tv_stream`, `website`, `facebook`, `whatsapp`, `youtube`, `twitter`, `instagram`, `facebook_id`, `admob_id`, `admob_banner_id`, `admob_interstitial_id`, `admob_native_id`, `start_color`, `end_color`, `cover_image`, `background_image`, `about_us`, `our_service`, `privacy_policy`, `song_request`, `message_us`, `status`, `create_at`) VALUES
-(1, 'RadioHD', 'https://english-ekamsoftware.radioca.st/stream', '', 'https://ekamsoftwares.com/', '', '919888880886', '', 'https://twitter.com/', 'https://www.instagram.com/', '', '', 'ca-app-pub-3940256099942544/9214589741', 'ca-app-pub-3940256099942544/1033173712', 'ca-app-pub-3940256099942544/2247696110', '#C56CD6', '#CC3333', 'uploads/banner/89526_FB_IMG_1720027222686.jpg', 'uploads/banner/27144_splash.jpg', 'We develop apps both for android and iOS mobile as well as apple and android TV along with website for your radio station. ', 'Complete IT solution.', 'https://sekhontech.com/privacy.html', 'https://webstests.com/radiohoster/songrequest.php', 'https://webstests.com/radiohoster/contactus.html', 1, '2022-12-03 05:15:31');
+(1, 'RadioHD', 'https://xxxxxxxxxxxxxxxx.radioca.st/stream', '', 'https://xxxxxxxxxxxxxx.com/', '', '919888880886', '', 'https://twitter.com/', 'https://www.instagram.com/', '', '', 'ca-app-pub-3940256099942544/9214589741', 'ca-app-pub-3940256099942544/1033173712', 'ca-app-pub-3940256099942544/2247696110', '#C56CD6', '#CC3333', 'uploads/banner/89526_FB_IMG_1720027222686.jpg', 'uploads/banner/27144_splash.jpg', 'We develop apps both for android and iOS mobile as well as apple and android TV along with website for your radio station. ', 'Complete IT solution.', 'https://xxxxxxxxxxxxxxxxx.com/privacy.html', 'https://xxxxxxxx.com/radiohoster/songrequest.php', 'https://xxxxxxxxxxx.com/radiohoster/contactus.html', 1, '2022-12-03 05:15:31');
 
 -- --------------------------------------------------------
 
@@ -136,7 +136,7 @@ CREATE TABLE `tbl_setting` (
 --
 
 INSERT INTO `tbl_setting` (`id`, `title`, `logo`, `email`, `contact`, `description`, `tracking_id`, `address`, `host`, `username`, `password`, `encryption`, `port`, `reply_to`) VALUES
-(1, 'RadioHD', 'uploads/logo/71548_IhvOOguaRwWMdd77L7SJKA.png', 'contacto@mundostreaming.cl', '56966921023', 'All major Indian FM radio stations ready for you to enjoy free music and much more.', 'fsdf fdsf sfdsfds', 'Santiago de Chile', 'smtp.gmail.com', 'ekamsoftwares1234@gmail.com', 'ekamsoftwares', 'tls', '465', 'no-reply@multibroadcast.com');
+(1, 'RadioHD', 'uploads/logo/71548_IhvOOguaRwWMdd77L7SJKA.png', 'contacto@mundostreaming.cl', '56966921023', 'All major Indian FM radio stations ready for you to enjoy free music and much more.', 'fsdf fdsf sfdsfds', 'Santiago de Chile', 'smtp.gmail.com', 'xxxxxxxxx1234@gmail.com', 'ekamsoftwares', 'tls', '465', 'no-reply@multibroadcast.com');
 
 --
 -- Indexes for dumped tables
